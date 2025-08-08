@@ -1,0 +1,392 @@
+{ "users": [
+  {
+    "userId": 1,
+    "name": "Tralalero Tralala",
+    "photo": "https://static.wikia.nocookie.net/brainrotnew/images/a/ac/Tralalero_tralala.jpg/revision/latest?cb=20250321131418",
+    "bio": "Tralalero Tralala - one of the italian brainrot animals and the brother of Trippi Troppi.."
+  },
+  {
+    "userId": 2,
+    "name": "Bombardino Crocodillo",
+    "photo": "https://static.wikia.nocookie.net/brainrotnew/images/0/07/Bombardiro_crocodilo_.webp/revision/latest?cb=20250321132902",
+    "bio": "Bombardiro Crocodilo - one of the italian brainrot animals and the brother of Bombombini Gusini.."
+  },
+  {
+    "userId": 3,
+    "name": "Trippi Troppi",
+    "photo": "https://static.wikia.nocookie.net/brainrotnew/images/1/14/640.jpg/revision/latest?cb=20250408114336",
+    "bio": "Trippi Troppi - is one of the italian brainrot animals.."
+  },
+  {
+    "userId": 4,
+    "name": "Bombombini Gusini",
+    "photo": "https://static.wikia.nocookie.net/brainrotnew/images/e/e0/Bombombini_Gusini.png/revision/latest?cb=20250325155049",
+    "bio": "Bombombini Gusini (Bombombini Guzzini, Bumbumbini Gusini) is one of Italian AI brainrot animals published on TikTok.."
+  },
+  {
+    "userId": 5,
+    "name": "Lirilì Larilà",
+    "photo": "https://static.wikia.nocookie.net/brainrotnew/images/f/f1/Lirili_rili_ralila.png/revision/latest?cb=20250324152453",
+    "bio": "Lirilì Larilà - one of the brainrot animals created by AI and published on tiktok."
+  },
+  {
+    "userId": 6,
+    "name": "Bobritto bandito",
+    "photo": "https://static.wikia.nocookie.net/brainrotnew/images/f/f9/Bomborito_bandito.png/revision/latest?cb=20250324151017",
+    "bio": "Bobrito Bondito — one of the brainrot animals created by AI and published on tiktok."
+  }
+  
+], "posts": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "fish don't pay rent",
+      "content": "i asked the ocean for a job and it gave me anxiety"
+    },
+    {
+      "id": 2,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "woke up and chose soup",
+      "content": "spilled alphabet soup and summoned a demon named jason"
+    },
+    {
+      "id": 3,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "thoughts.exe crashed",
+      "content": "my brain buffering at 3am just to remember i left cheese on the windowsill"
+    },
+    {
+      "id": 4,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "don’t trust the geese",
+      "content": "they know your sins and your search history"
+    },
+    {
+      "id": 5,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "ghost in the fridge",
+      "content": "he ate all the yogurt and said 'boo lactose'"
+    },
+    {
+      "id": 6,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "just barked at a microwave",
+      "content": "it barked back. we’re dating now"
+    },
+    {
+      "id": 7,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "help my fork is screaming",
+      "content": "it said 'stop stabbing salad it has a family'"
+    },
+    {
+      "id": 8,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "no thoughts only shrimp",
+      "content": "shrimp in the sink. shrimp in my mind. shrimp in my taxes"
+    },
+    {
+      "id": 9,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "sleep is a conspiracy",
+      "content": "bed said lay down and i said perish"
+    },
+    {
+      "id": 10,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "cup noodles is my therapist",
+      "content": "they said 'boil your emotions, baby'"
+    },
+    {
+      "id": 11,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "brain doing backflips",
+      "content": "i sneezed and invented a new emotion"
+    },
+    {
+      "id": 12,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "ate a cloud today",
+      "content": "soft. chewy. tasted like 3rd grade memories"
+    },
+    {
+      "id": 13,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "don’t microwave your dreams",
+      "content": "they come out soggy and sad"
+    },
+    {
+      "id": 14,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "accidentally married a spoon",
+      "content": "we’re expecting a fork next spring"
+    },
+    {
+      "id": 15,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "socks are just foot prisons",
+      "content": "my toes demand freedom and pizza"
+    },
+    {
+      "id": 16,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "wednesday is a scam",
+      "content": "i checked. it's actually just tuesday in a costume"
+    },
+    {
+      "id": 17,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "i opened the fridge and saw myself",
+      "content": "he winked. i winked. we both screamed"
+    },
+    {
+      "id": 18,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "teeth are just mouth bones",
+      "content": "and bones are just spicy calcium decorations"
+    },
+    {
+      "id": 19,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "birds know too much",
+      "content": "that pigeon winked at me like it pays taxes"
+    },
+    {
+      "id": 20,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "the wifi spoke latin",
+      "content": "and summoned julius caesar through my router"
+    },
+    {
+      "id": 21,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "my phone just sighed",
+      "content": "it said 'bro. again?' when i opened twitter"
+    },
+    {
+      "id": 22,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "just yelled at the moon",
+      "content": "it yelled back. we’re in a toxic relationship now"
+    },
+    {
+      "id": 23,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "banana called me greg",
+      "content": "i answered. greg is gone now. i am greg"
+    },
+    {
+      "id": 24,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "microwave asked for a raise",
+      "content": "i gave it my taxes. it’s the boss now"
+    },
+    {
+      "id": 25,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "noodle thoughts only",
+      "content": "brain is spaghetti, sauce is panic"
+    },
+    {
+      "id": 26,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "fridge politics",
+      "content": "milk and ketchup had a debate. mustard won"
+    },
+    {
+      "id": 27,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "floor is made of soap",
+      "content": "slid into another dimension just trying to get toast"
+    },
+    {
+      "id": 28,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "dreamt i was a powerpoint",
+      "content": "slide 3 was just me screaming"
+    },
+    {
+      "id": 29,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "window keeps judging me",
+      "content": "i swear it smirked when i tripped on my charger"
+    },
+    {
+      "id": 30,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "tuesday smells like printer ink",
+      "content": "and broken promises"
+    },
+    {
+      "id": 31,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "i googled 'how to unburn toast'",
+      "content": "now my toaster has a lawyer"
+    },
+    {
+      "id": 32,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "bit my alarm clock",
+      "content": "it bit back. time is pain"
+    },
+    {
+      "id": 33,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "bought emotions on ebay",
+      "content": "received confusion and extra shipping charges"
+    },
+    {
+      "id": 34,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "potato salad knows too much",
+      "content": "i can’t trust it. it’s watching me"
+    },
+    {
+      "id": 35,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "became soup for 12 minutes",
+      "content": "therapist says i need grounding"
+    },
+    {
+      "id": 36,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "ate a USB drive",
+      "content": "now i dream in spreadsheets"
+    },
+    {
+      "id": 37,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "the cheese moved",
+      "content": "it looked at me and whispered 'run'"
+    },
+    {
+      "id": 38,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "egg conspiracy",
+      "content": "why are they shaped like secrets?"
+    },
+    {
+      "id": 39,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "i saw a duck in a tie",
+      "content": "he was late for his 3pm destruction"
+    },
+    {
+      "id": 40,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "water bottle betrayed me",
+      "content": "spilled on me in front of my crush"
+    },
+    {
+      "id": 41,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "music from the sink",
+      "content": "it’s jazz. the forks are vibing"
+    },
+    {
+      "id": 42,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "bread tried to escape",
+      "content": "caught it mid-toast. it screamed"
+    },
+    {
+      "id": 43,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "i licked the ethernet cable",
+      "content": "now i speak in pings and regret"
+    },
+    {
+      "id": 44,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "the sun won’t stop laughing",
+      "content": "i didn’t even say anything"
+    },
+    {
+      "id": 45,
+      "authorId": 3,
+      "author": "Trippi Troppi",
+      "title": "i dated a lamp once",
+      "content": "it was enlightening but short-circuited"
+    },
+    {
+      "id": 46,
+      "authorId": 4,
+      "author": "Bombombini Gusini",
+      "title": "lost my thoughts in the laundry",
+      "content": "found a sock and a revelation"
+    },
+    {
+      "id": 47,
+      "authorId": 5,
+      "author": "Lirilì Larilà",
+      "title": "keyboard is judging me",
+      "content": "it sighed when i typed 'asdfg' again"
+    },
+    {
+      "id": 48,
+      "authorId": 6,
+      "author": "Bobritto bandito",
+      "title": "toilet made a weird noise",
+      "content": "think it's mad i flushed a hotdog"
+    },
+    {
+      "id": 49,
+      "authorId": 1,
+      "author": "Tralalero Tralala",
+      "title": "brain ran away",
+      "content": "left a sticky note that said 'brb 😎'"
+    },
+    {
+      "id": 50,
+      "authorId": 2,
+      "author": "Bombardino Crocodillo",
+      "title": "grape told me secrets",
+      "content": "i know too much now. the raisins are watching"
+    }
+]
+}
+  
